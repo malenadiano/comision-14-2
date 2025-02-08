@@ -1,7 +1,7 @@
 {
     "Producto1": {
         "nombre": "Jean Azul",
-        "unitPrice": "$11.98",
+        "unitPrice": 11.98,
         "quantity": "2"
     
 
@@ -9,7 +9,7 @@
 
     "Producto2": {
         "nombre": "Sweater rosa",
-        "unitPrice": "$14.86",
+        "unitPrice": 14.86,
         "quantity": "1"
        
         
